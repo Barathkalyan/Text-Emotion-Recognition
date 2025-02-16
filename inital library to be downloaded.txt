@@ -1,0 +1,11 @@
+To begin with, we would need NLP basics: Natural Language Processing, the fundamental concepts like tokenization, lemmatization,etc
+
+Tools are also required.
+To begin with, open command prompt and install the following libraries:
+
+1. nltk
+2. textblob
+
+paste the following:
+
+pip install nltk textblob
